@@ -1,11 +1,4 @@
-cale520/study_xxqg:cnzb20240428
-heyibear/study_xxqg:latest
-cale520/bncr:2.0.3
-cale520/bncr:1.1.4
-cale520/npc:v0.26.18
-cale520/npc:v0.26.10
-cale520/nps:v0.26.18
-cale520/nps:v0.26.10
-cale520/newstudyxxqg:20240429
-cale520/pro:2.7.8
-cale520/serverstatus:v20230916
+amilys/embyserver:4.8.8.0
+
+
+

@@ -3,3 +3,9 @@ python:alpine3.19
 kasmweb/nginx:1.25.3
 --platform=linux/amd64 redis:7.0.15-alpine3.20
 --platform=linux/arm/v7 redis:7.0.15-alpine3.20
+cale520/newstudyxxqg:20240429
+cale520/nps:v0.26.18
+cale520/npc:v0.26.18
+cale520/pro:2.7.8
+whyour/qinglong:2.12.2
+whyour/qinglong:2.15.4

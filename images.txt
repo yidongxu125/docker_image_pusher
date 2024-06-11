@@ -1,4 +1,7 @@
-amilys/embyserver:latest
+jellyfin/jellyfin:2024061005
+jellyfin/jellyfin:2024061005-armhf
+jellyfin/jellyfin:2024061005-arm64
+
 
 
 

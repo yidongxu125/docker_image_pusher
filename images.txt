@@ -1,6 +1,4 @@
-yisier1/nps:v0.26.22
-yisier1/npc:v0.26.22
-cppla/serverstatus:1.1.5
+malaohu/mobaxterm-genkey
 
 
 

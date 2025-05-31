@@ -1,4 +1,5 @@
-surenkid/serverstatus-rust
+idoge/stat_server:1.8
+
 
 
 

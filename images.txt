@@ -1,4 +1,4 @@
-rustdesk/rustdesk-server:1.1.14
+surenkid/serverstatus-rust
 
 
 

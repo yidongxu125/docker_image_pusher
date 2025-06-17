@@ -1,5 +1,6 @@
 idoge/stat_server:1.8
-
+nolanhzy/pro:latest
+containrrr/watchtower
 
 
 

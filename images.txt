@@ -1,6 +1,7 @@
 idoge/stat_server:1.8
 nolanhzy/pro:latest
 containrrr/watchtower
+nolanhzy/pro:20250507.2052
 
 
 

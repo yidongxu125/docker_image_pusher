@@ -1,5 +1,6 @@
 nolanhzy/pro:3.2.0
 rustdesk/rustdesk-server
-
+yisier1/npc:v0.26.27
+yisier1/nps:v0.26.27
 
 

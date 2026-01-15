@@ -1,3 +1,4 @@
 nolanhzy/pro:3.2.0
 yisier1/nps:v0.26.28
 yisier1/npc:v0.26.28
+docker pull whyour/qinglong:2.20.1

@@ -6,3 +6,4 @@ cale520/newstudyxxqg:20240429
 hcm33041/newstudyxxqg:latest
 cppla/serverstatus:1.1.7
 cppla/serverstatus:1.1.6
+whyour/qinglong:2.20.2

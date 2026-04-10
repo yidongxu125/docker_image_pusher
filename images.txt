@@ -1,1 +1,2 @@
-whyour/qinglong:2.20.3
+yisier1/nps:v0.26.32
+yisier1/npc:v0.26.32

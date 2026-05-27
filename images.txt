@@ -1,2 +1,2 @@
-yisier1/nps:v0.26.32
+ghcr.io/legolasljl/studyclaw:latest
 yisier1/npc:v0.26.32

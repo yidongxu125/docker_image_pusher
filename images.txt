@@ -1,5 +1,5 @@
 whyour/qinglong:2.21.0
 ghcr.io/legolasljl/studyclaw:latest
-yisier1/npc:v0.26.34
-yisier1/nps:v0.26.34
+yisier1/npc:v0.26.36
+yisier1/nps:v0.26.36
 nousresearch/hermes-agent:latest

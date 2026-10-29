@@ -1,3 +1,4 @@
 yisier1/npc:v0.26.39
 yisier1/nps:v0.26.39
 whyour/qinglong:2.23.0
+oldiy/chrome-novnc:latest
